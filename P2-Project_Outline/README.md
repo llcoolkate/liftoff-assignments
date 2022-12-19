@@ -17,8 +17,14 @@ Cat message boards: this will be a simple searchable message board where people 
 ### Technologies
 c-sharp
 MySQL
+Bootstrap
+probably javascript
+html
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to learn how to use data from public APIs and how to embed video. 
+I will need to learn how to design and implement a user profile page.
+I will need to learn a ton of little things that I don't know about or cannot name yet. 
 ### Project Tracker
 Link to your Trello board here
