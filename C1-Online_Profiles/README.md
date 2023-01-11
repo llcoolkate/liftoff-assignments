@@ -17,3 +17,4 @@ You will need to upload a .PDF of your resume to this repo, or connect with your
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
 https://docs.google.com/document/d/1zchwyflNkSSvNCgxEAsnH2yQVnnk_SoUEnhhZr8Ah8A/edit?usp=sharing
+[Katherine McCallum Resume 2023.pdf](https://github.com/llcoolkate/liftoff-assignments/files/10396655/Katherine.McCallum.Resume.2023.pdf)
