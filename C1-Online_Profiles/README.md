@@ -15,4 +15,5 @@ https://www.linkedin.com/in/katherine-mccallum/
 ### Resume
 
 https://docs.google.com/document/d/1zchwyflNkSSvNCgxEAsnH2yQVnnk_SoUEnhhZr8Ah8A/edit?usp=sharing
-[Katherine McCallum Resume 2023.pdf](https://github.com/llcoolkate/liftoff-assignments/files/10396655/Katherine.McCallum.Resume.2023.pdf)
+
+[Katherine McCallum Resume 2023.pdf](https://github.com/llcoolkate/liftoff-assignments/files/10397081/Katherine.McCallum.Resume.2023.pdf)
