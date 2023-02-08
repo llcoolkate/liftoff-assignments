@@ -7,4 +7,5 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+
+[Copy of Project Presentation Template.pdf](https://github.com/llcoolkate/liftoff-assignments/files/10688852/Copy.of.Project.Presentation.Template.pdf)
